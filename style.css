@@ -1,0 +1,35 @@
+body{
+  background:#373E46;
+  text-align:center;
+}
+
+h1,p{
+  margin:50px;
+  color:#B5B5B5;
+}
+
+I eatable{
+  border: 2px solid #000;
+}
+
+table{
+  border-spacing:16px;
+  margin: 0 auto;
+}
+
+td{
+  cursor:pointer;
+  color:#373E46;
+  width:90px;
+  height:90px;
+  background:#019587;
+  padding:10px;
+  font-size:60px;
+  text-align:center;
+  font-weight:bold;
+  font-family:sans-serif;
+}
+
+td:hover{
+  background:rgba(225,225,225,0.5);
+}
